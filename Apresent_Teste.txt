@@ -1,0 +1,17 @@
+3 - Caixa Branca
+
+4 - Caixa Preta
+
+1 - Caixa Cinza
+
+5 - Regressão
+
+2 - Técnicas não funcionais
+
+
+	
+Perla / Gabriel - 3
+Breno / Bruno - 1
+Lázaro / Carlos Henrique - 5
+Williams / José Arlan - 4
+William Lázaro / Bryan - 2
